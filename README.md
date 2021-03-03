@@ -4,13 +4,14 @@ Nesse repositório vamos apresentar uma básica introdução em como utilizar o 
 
 
 imagem 1
-
+    Texto
 imagem 2
-
+    Texto
 imagem 3
-
+    Texto
 imagem 4
-
+    Texto
 imagem 5
-
+    Texto
 imagem 6
+    Texto
